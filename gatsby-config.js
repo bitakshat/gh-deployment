@@ -5,6 +5,7 @@
  */
 
 module.exports = {
+  pathPrefix: "/gh-deployment",
   /* Your site config here */
   plugins: [],
 }
